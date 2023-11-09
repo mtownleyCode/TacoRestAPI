@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "CB0yi7VGB9WWXJ4WaE5YRuIVia99pTpwOds0kJIJfJE=",
+  "Source": "TacoRestAPI",
+  "BasePath": "_content/TacoRestAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
